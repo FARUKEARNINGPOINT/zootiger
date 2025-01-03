@@ -15,10 +15,10 @@ pkg install nodejs-lts
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Zoo-Bot.git
+   git clone https://github.com/FARUKEARNINGPOINT/zootiger.git
    ```
    ```bash
-   cd Zoo-Bot
+   cd zootiger
    ```
 
 2. **Instal Requirements:**
@@ -33,18 +33,5 @@ pkg install git
 ```bash
 node zoo.js
 ```
-For Proxy :
-```
-node zoo-proxy.js
-```
-For those using multiple accounts, it's recommended to use a proxy (if using only one account, there's no need to create the proxy.txt file).
 
----
-
-## PROXY FORMAT
-
-```bash
-http://username:passwoord@hostname:port
-socks5://username:password@hostname:port
-```
 **TUTORIAL AVAILABLE ON MY YT**
