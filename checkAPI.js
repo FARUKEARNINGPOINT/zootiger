@@ -38,7 +38,7 @@ async function getBaseApi(url) {
     return {
       endpoint: null,
       message:
-        "CREATE BY (FARUK EARNING POINT (FEP)",
+        "Script By (FARUK EARNING POINT (FEP)",
     };
   }
 }
