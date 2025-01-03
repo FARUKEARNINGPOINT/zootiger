@@ -31,7 +31,7 @@ async function getBaseApi(url) {
       return {
         endpoint: null,
         message:
-          "Script By (https://t.me/FarukEarningPoint)",
+          "Script By (https://t.me/D4rkCipherX)",
       };
     }
   } catch (e) {
