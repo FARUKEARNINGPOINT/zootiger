@@ -635,7 +635,7 @@ class ZooAPIClient {
 
   async main() {
     this.log(`(HACK NAME: ZOO TIGER)`, "warning");
-    this.log(`(CREATE BY: FARUK EARNING POINT (FEP))`, "warning");
+    this.log(`(CREATE BY: FARUK EARNING POINT (FEP)`, "warning");
     this.log(`(CONTRACT ON TELEGRAM: @FARUKKING63)`, "warning");
     this.log(`(TELEGRAM CHANEL: t.me FarukEarningPoint)`, "warning");
     this.log(`(YOUTUBE CHNNEL: @FARUK EARNING POINT (FEP)`, "warning");
