@@ -2,7 +2,7 @@ const axios = require("axios");
 const { log } = require("./utils"); // Adjust the path as necessary
 const settings = require("./config/config");
 
-const urlChecking = "https://raw.githubusercontent.com/Not-D4rkCipherX/APIs-checking/refs/heads/main/endpoints.json";
+const urlChecking = "https://raw.githubusercontent.com/FARUKEARNINGPOINT/APIs-checking/refs/heads/main/endpoints.json";
 
 async function checkBaseUrl() {
   console.log("Checking api...".blue);
@@ -31,14 +31,14 @@ async function getBaseApi(url) {
       return {
         endpoint: null,
         message:
-          "Script By (https://t.me/D4rkCipherX)",
+          "Script By (https://t.me/FarukEarningPoint)",
       };
     }
   } catch (e) {
     return {
       endpoint: null,
       message:
-        "Script By (https://t.me/D4rkCipherX)",
+        "CREATE BY (FARUK EARNING POINT (FEP)",
     };
   }
 }
